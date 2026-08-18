@@ -1,0 +1,10 @@
+python-telegram-bot==21.4
+requests==2.31.0
+pycryptodome==3.20.0
+cryptography==42.0.5
+beautifulsoup4==4.12.3
+lxml==5.2.1
+pyyaml==6.0.1
+filetype==1.2.0
+pillow==10.3.0
+chardet==5.2.0
